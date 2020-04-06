@@ -2,18 +2,17 @@ menu:
   主页: /
   归档: /archives
 
-logo: XXX
+logo: onion
 
 more:
   友情链接: /links.html
-  Github: https://github.com/XXX/
-  微博: http://weibo.com/XXX
-  知乎: https://www.zhihu.com/people/XXX
-  rss: /rss2.xml
+  微博: http://weibo.com/u/1717168892
+  Twitter: @ZoeOnion
+  Rss: /rss2.xml
   关于我: /
 
 about:
-  title: Theme Pln
+  title: Memory is onion
   link: https://github.com/gaoryrt/hexo-theme-pln
 
 show_toc_bool: true
@@ -34,6 +33,6 @@ valine:
 
 excerpt_num: 120
 
-footer_info: © XXX 2016-2020
+footer_info: © onion 2010-2020
 
 latex: true
